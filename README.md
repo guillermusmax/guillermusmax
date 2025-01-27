@@ -16,15 +16,8 @@
 
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="60%">
   
-<!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/67d1aacd-464b-4a54-979b-a139888cabf5.svg)](https://wakatime.com/@67d1aacd-464b-4a54-979b-a139888cabf5)
-
 <img width="900" align="center" src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
 
-
-
-<!--END_SECTION:waka-->
-  ✨Catch me night only, especially between the Fri. evening to the Mon. early morning. 
 </td><td valign="top" width="33%">
 <p align="right">
 
