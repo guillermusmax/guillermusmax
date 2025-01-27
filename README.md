@@ -47,7 +47,7 @@ Sunday                   2122 commits        ████░░░░░░░�
 <p align="right">
 
   ***
-<p align="center"><img src="https://profile-counter.glitch.me/{guillermusmax}/count.svg" alt="guillermusmax :: Visitor's Count" />:eyes:</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{guillermusmax}/count.svg" alt="guillermusmax :: Visitor's Count" /></p>
 
   ***
   
@@ -55,7 +55,7 @@ Sunday                   2122 commits        ████░░░░░░░�
 
   ***
   
-  > Human Vs. AI (1:0) :s
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=guillermusmax&show_icons=true&theme=synthwave" alt="guillermusmax :: Profile Stats" /></p>
   
   ***
   
