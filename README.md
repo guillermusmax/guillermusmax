@@ -47,7 +47,7 @@ Sunday                   2122 commits        ████░░░░░░░�
 <p align="right">
 
   ***
-<p align="center"><img src="https://profile-counter.glitch.me/{guillermusmax}/count.svg" alt="guillermusmax :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{guillermusmax}/count.svg" alt="guillermusmax :: Visitor's Count" />:eyes:</p>
 
   ***
   
